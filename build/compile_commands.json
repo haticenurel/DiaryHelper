@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/haticenurel/cppworkspace/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include  -Wall -fprofile-arcs -ftest-coverage -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DiaryHelper.dir/src/DiaryHelper.cpp.o -c /Users/haticenurel/cppworkspace/src/DiaryHelper.cpp",
+  "file": "/Users/haticenurel/cppworkspace/src/DiaryHelper.cpp",
+  "output": "CMakeFiles/DiaryHelper.dir/src/DiaryHelper.cpp.o"
+},
+{
+  "directory": "/Users/haticenurel/cppworkspace/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include  -Wall -fprofile-arcs -ftest-coverage -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/DiaryHelperTest.dir/tests/DiaryHelperTest.cpp.o -c /Users/haticenurel/cppworkspace/tests/DiaryHelperTest.cpp",
+  "file": "/Users/haticenurel/cppworkspace/tests/DiaryHelperTest.cpp",
+  "output": "CMakeFiles/DiaryHelperTest.dir/tests/DiaryHelperTest.cpp.o"
+},
+{
+  "directory": "/Users/haticenurel/cppworkspace/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include  -Wall -fprofile-arcs -ftest-coverage -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Example.dir/examples/example.cpp.o -c /Users/haticenurel/cppworkspace/examples/example.cpp",
+  "file": "/Users/haticenurel/cppworkspace/examples/example.cpp",
+  "output": "CMakeFiles/Example.dir/examples/example.cpp.o"
+}
+]
